@@ -1,6 +1,5 @@
 # dataAnalysis
 python for data analysis(2nd edition)
----
 
 
 # ট্রপিক :
