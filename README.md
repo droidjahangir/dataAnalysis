@@ -1,4 +1,4 @@
-# dataAnalysis
+# Data Analysis
 
 ![Python for data analysis](./images/data_analysis.jpg)
 
