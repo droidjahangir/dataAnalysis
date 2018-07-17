@@ -1,6 +1,6 @@
 # dataAnalysis
-python for data analysis(2nd edition) এই বইয়ের প্র্যাকটিস প্রব্লেম গুলো এখানে আপডেট আছে 
-
+python for data analysis(2nd edition)
+---
 
 
 # ট্রপিক :
