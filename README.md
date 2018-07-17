@@ -1,5 +1,5 @@
 # dataAnalysis
-python for data analysis(2nd edition)
+
 ![Python for data analysis](./images/data_analysis.jpg)
 
 # ট্রপিক :
